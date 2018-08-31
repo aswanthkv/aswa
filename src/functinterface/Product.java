@@ -16,7 +16,7 @@ public class Product {
     }
 
     public static void main(String[] args) {
-        ArrayList<Product> al=new ArrayList<>();
+        ArrayList<Product> al=new ArrayList<>(); // here product is the declared in angular bracket and its called generic declaration.
         al.add(new Product(100,"twix"));
         al.add(new Product(220,"silk"));
         al.add(new Product(436,"tobleron"));

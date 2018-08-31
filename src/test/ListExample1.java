@@ -15,7 +15,7 @@ public class ListExample1 {
         ArrayList<String>al2=new ArrayList<String>();
 
         al.add("A");
-        al.add("B");
+        al.add("functinterface.B");
         al.add("C");
         al.add("A");
         al.add("C");

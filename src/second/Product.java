@@ -14,7 +14,7 @@ public class Product {
     public static void main(String[] args)
     {
         Product p1=new Product(1,999,"A");
-        Product p2=new Product(2,1001,"B");
+        Product p2=new Product(2,1001,"functinterface.B");
         Product p3=new Product(3,1024,"C");
         Product p4=new Product(4,456,"D");
 

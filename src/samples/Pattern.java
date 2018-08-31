@@ -10,12 +10,12 @@ public class Pattern {
             System.out.println("A");
             if (i==4)
             {
-                System.out.println("B");
-                System.out.println("B");
+                System.out.println("functinterface.B");
+                System.out.println("functinterface.B");
             }
             else if (i>=1)
             {
-                System.out.println("B");
+                System.out.println("functinterface.B");
 
             }
 
